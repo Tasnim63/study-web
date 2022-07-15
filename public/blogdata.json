@@ -1,0 +1,50 @@
+[
+    {
+        "id":1,
+        "img":"https://thepixelcurve.com/wp/lmsmart/lp/wp-content/uploads/sites/2/2020/09/BL418-1170x725.jpeg",
+        "buttonTittle":"Lifestyle",
+        "userTittle":"Fred Hyman",
+        "comments":"2 comments",
+        "Tittle":"Why do we need to know about data science?"
+    },
+    {
+        "id":2,
+        "img":"https://thepixelcurve.com/wp/lmsmart/lp/wp-content/uploads/sites/2/2021/05/TIN8935-1170x725.jpg",
+        "buttonTittle":"Lifestyle",
+        "userTittle":"Fred Hyman",
+        "comments":"2 comments",
+        "Tittle":"Guide to visas and funding to study in the UK"
+    },
+    {
+        "id":3,
+        "img":"https://thepixelcurve.com/wp/lmsmart/lp/wp-content/uploads/sites/2/2020/09/BT992-1170x725.jpeg",
+        "buttonTittle":"Lifestyle",
+        "userTittle":"Fred Hyman",
+        "comments":"2 comments",
+        "Tittle":"Life at university in America or Canada"
+    },
+    {
+        "id":4,
+        "img":"https://thepixelcurve.com/wp/lmsmart/lp/wp-content/uploads/sites/2/2021/06/COF646-1170x725.jpg",
+        "buttonTittle":"Lifestyle",
+        "userTittle":"Fred Hyman",
+        "comments":"2 comments",
+        "Tittle":"Building a Career in Data Science and Analytics"
+    },
+    {
+        "id":5,
+        "img":"https://thepixelcurve.com/wp/lmsmart/lp/wp-content/uploads/sites/2/2021/05/TIN8935-1170x725.jpg",
+        "buttonTittle":"Lifestyle",
+        "userTittle":"Fred Hyman",
+        "comments":"2 comments",
+        "Tittle":"Guide to visas and funding to study in the UK"
+    },
+    {
+        "id":6,
+        "img":"https://thepixelcurve.com/wp/lmsmart/lp/wp-content/uploads/sites/2/2020/09/BT992-1170x725.jpeg",
+        "buttonTittle":"Lifestyle",
+        "userTittle":"Fred Hyman",
+        "comments":"2 comments",
+        "Tittle":"Life at university in America or Canada"
+    }
+]

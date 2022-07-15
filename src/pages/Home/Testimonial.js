@@ -71,7 +71,7 @@ function Testimonial() {
               <div className=" mb-40  absolute z-20 bottom-40 left-10 ">
                 <img
                   className="   w-36 rounded-full "
-                  src="https://thepixelcurve.com/wp/lmsmart/lp/wp-content/uploads/sites/2/2021/11/MU120.jpg"
+                  src="https://thepixelcurve.com/wp/lmsmart/lp/wp-content/uploads/sites/2/2021/11/UU120.png"
                   alt=""
                 />
               </div>
@@ -96,9 +96,9 @@ function Testimonial() {
                 </p>
                 <div className=" mt-10 ml-4">
                   <p className=" text-secondary text-2xl font-semibold">
-                    Mark Donald
+                  James Smith
                   </p>
-                  <p className=" text-gray">Manager</p>
+                  <p className=" text-gray">CFO Apple Corp</p>
                 </div>
               </div>
             </div>
@@ -108,7 +108,7 @@ function Testimonial() {
               <div className=" mb-40  absolute z-20 bottom-40 left-10 ">
                 <img
                   className="   w-36 rounded-full "
-                  src="https://thepixelcurve.com/wp/lmsmart/lp/wp-content/uploads/sites/2/2021/11/MU120.jpg"
+                  src="https://thepixelcurve.com/wp/lmsmart/lp/wp-content/uploads/sites/2/2022/02/JON972.jpg"
                   alt=""
                 />
               </div>
@@ -133,9 +133,9 @@ function Testimonial() {
                 </p>
                 <div className=" mt-10 ml-4">
                   <p className=" text-secondary text-2xl font-semibold">
-                    Mark Donald
+                  Charlie Keller
                   </p>
-                  <p className=" text-gray">Manager</p>
+                  <p className=" text-gray">Developer</p>
                 </div>
               </div>
             </div>
