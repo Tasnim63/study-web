@@ -6,7 +6,7 @@ function CoursesAuthored() {
     <div style={{
       
         backgroundImage:`url(https://thepixelcurve.com/wp/lmsmart/lp/wp-content/uploads/sites/2/2021/11/SPPU2.png)`
-    }} className=" flex  justify-around items-center my-12">
+    }} className=" flex  bg-no-repeat justify-around items-center my-12">
         <div className=" flex lg:flex-col justify-center items-start p-30">
          
           <h1 className=" text-3xl font-serif font-bold text-secondary uppercase">

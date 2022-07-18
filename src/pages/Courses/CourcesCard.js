@@ -12,7 +12,7 @@ function CourcesCard() {
     <>
       <div className=" flex justify-center items-center">
         <div>
-          <h1 className="text-5xl font-bold mt-8 text-cyan-900">
+          <h1 className="text-5xl font-bold  text-cyan-900">
             Explore Popular Courses
           </h1>
           <div className=" mt-10 ">
@@ -52,3 +52,5 @@ function CourcesCard() {
     </>
   );
 }
+
+export default CourcesCard;

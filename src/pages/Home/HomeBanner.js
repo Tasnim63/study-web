@@ -17,7 +17,7 @@ function HomeBanner() {
   // };
   return (
     <>
-      <div style={{backgroundImage:`url(https://thepixelcurve.com/wp/lmsmart/lp/wp-content/uploads/sites/2/2021/11/SPPU2.png)`}}  className=" flex  justify-center items-center my-12">
+      <div  style={{backgroundImage:`url(https://thepixelcurve.com/wp/lmsmart/lp/wp-content/uploads/sites/2/2021/11/SPPU2.png)`}}  className="bg-no-repeat flex  justify-center items-center my-12">
       {/* <Particles
       id="tsparticles"
       init={particlesInit}

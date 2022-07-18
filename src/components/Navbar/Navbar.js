@@ -1,6 +1,13 @@
+import { signOut } from "firebase/auth";
 import React, { useState } from "react";
+import { useAuthState } from "react-firebase-hooks/auth";
+import auth from "../../firebase.init";
 function Navbar() {
+  const [user, loading, error] = useAuthState(auth);
     const [open ,setOpen]=useState(false)
+    const logout =()=>{
+      signOut(auth)
+    }
   return (
     <>
       <nav className=" bg-white ">
@@ -28,10 +35,17 @@ function Navbar() {
           <li className=" p-4 hover:text-primary">
             <a href="/pages">Pages</a>
           </li>
-          <li className=" flex p-4"> <p className="mr-3 text-lg "><span ><ion-icon name="person-outline"></ion-icon></span></p>
+          <li className=" flex p-4"> { user ?   <div className=" flex">
+            <p className="mr-3 text-lg "><span ><ion-icon name="person-outline"></ion-icon></span></p>
+            <p onClick={logout} className=" cursor-pointer  hover:text-primary" >  SignOut</p>
+         
+          
+            </div> : <div>
             <a className="  hover:text-primary" href="/login">  login</a>
             <span className="ml-3 ">/</span>
             <a className=" hover:text-primary ml-3" href="/login">signup</a>
+            </div>}
+            
           </li>
           </ul>
 

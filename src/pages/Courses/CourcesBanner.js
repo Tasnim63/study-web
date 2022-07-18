@@ -2,10 +2,10 @@ function CourcesBanner() {
     return (
       <>
         <div
-          className=" flex justify-center items-center"
+          className="bg-no-repeat flex justify-center items-center"
           style={{
-            height: 600,
-  
+            height: 450,
+      
             backgroundImage: `url(https://thepixelcurve.com/wp/lmsmart/lp/wp-content/uploads/sites/2/2021/12/REJ93.jpeg)`,
           }}
         >
